@@ -1,0 +1,263 @@
+/* .h1{
+    background-color: aquamarine;
+    color: blue;
+    padding: 10px;
+    width: 30%;
+}
+.border{
+    
+    border: 2px solid black;
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;  
+}
+
+.asd{
+  border: 2px solid black;
+  width: 250px;
+  height: 250px;
+  margin: 25px;
+  padding: 25px;
+  border-radius: 30px;
+
+}
+
+.zakir{
+  border: 3px solid rgb(107, 33, 14);
+  width: 250px;
+  height: 250px;
+  margin: 25px;
+  padding: 25px;
+  border-radius: 30px;
+  text-align: center;
+}
+.has{
+  border: 3px solid rgba(18, 6, 248, 0.447);
+  width: 250px;
+  height: 300px;
+  margin: 25px;
+  padding: 25px;
+  border-radius: 30px;
+}
+.asd{
+  text-align: center;
+}
+.asd:hover{
+  background-color: brown;
+  color: blanchedalmond;
+  cursor: pointer;
+  transition: 1ms;
+}
+.has{
+  text-align: center;
+}
+.has:hover{
+  background-color: rgb(10, 10, 10);
+  color: white;
+  cursor: pointer;
+  transition: 1ms;
+  font-style: italic;
+}
+.zar{
+  color: grey;
+  transition: 1ms;
+}
+.zakir:hover{
+  background-color: rgb(241, 188, 114);
+  color: white ;
+  cursor: pointer;
+  transition: 1ms;
+  font-style: italic;
+}
+.qwe{
+  font-size: 30px;
+}
+
+.btn{
+  padding: 3px;
+  border-radius: 5px;
+  color: rgb(241, 141, 9);
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.btn1{
+  background-color: rgba(214, 242, 162, 0.773);
+  color: rgb(206, 76, 76);
+  cursor: pointer;
+}
+.bat2{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.you{
+  font-size: 30px;
+}
+.play{ 
+  font-size: 30px;
+}
+.card{
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 300px;
+  height: 350px;
+}
+.sho{
+  margin: 20px;
+  box-shadow: 5px 5px 10px 3px gray;
+}
+.hading{
+  text-align: center;
+}
+.btn5:hover {
+  background-color: black;
+  color: aliceblue  ;
+  cursor: pointer;
+}
+.btn6{
+  text-align: center;
+  margin-top: 15px;
+}
+.btn5{
+  background-color: rgba(213, 213, 11, 0.863);
+  color:black;
+  padding: 2px;
+  
+}
+
+.icon{
+  font-size: 10pxpx;
+}
+.btn5,a {
+  color: none;
+
+  text-decoration: none;
+} */
+
+
+.fle{
+  
+  display: flex;
+}
+.ET{
+  color: orange;
+}
+.mar{
+  font-size: 15px;
+  margin-top: 30px;
+  margin-left: 8px;
+}
+.cat{
+  font-size:20px;
+  margin-left: 8px;
+  margin-top: 2px;
+}
+.int{
+  
+  margin-top:20px ;
+  margin-left: 12px;  
+}
+.wit{
+  width: 700px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 10px;
+}
+.bag{
+  margin-left: 10%;
+  margin-top: 30px;
+}
+
+.lik{
+  margin-left: 4%;
+  margin-top: 30px;
+}
+.in{
+  margin-left: 4%;
+  margin-top:15px ;
+}
+.c{
+  margin-top: 15px;
+}
+.parint{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.border{
+  border-bottom: 1px solid black;
+}
+.img{
+  border-radius: 50%;
+  height: 150px;
+}
+.par{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  text-align: center;
+  margin-top: 20px;
+}
+.im{
+border-radius: 50%;
+height: 100px;
+}
+.h1{
+  text-align: center;
+  font-weight: lighter;
+}
+.hh{
+  text-align: center;
+}
+
+.flx{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  text-align: center;
+  margin-top: 20px;
+
+  
+  
+
+}
+.des{
+  height: 180px;
+  width: 150px;
+  border-radius: 10px;
+ 
+}
+.flx img:hover{
+  cursor: pointer ;
+  box-shadow: 3px 3px 3px 5px rgba(128, 128, 128, 0.866);
+}
+.colour{
+ 
+ background-color: peachpuff;
+}
+.senter{
+  text-align: center;
+}
+.pra{
+  display: flex;
+  text-decoration: underline;
+  justify-content: center;
+}
+.parent{
+  display: flex;
+}
+.button{
+  text-align: center;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.c{
+  
+  margin-left: 25px;
+}
